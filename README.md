@@ -219,4 +219,6 @@
 [Про оптимизацию паспортов](https://github.com/daria-kashina/the_green_census/blob/main/Оптимизация%20паспортов.pdf)  
 [Финансовая модель проекта - ФОТ](https://github.com/daria-kashina/the_green_census/blob/main/Финансовая_модель_проекта_ФОТ.pdf)     
 [Презентация решения](https://docs.google.com/presentation/d/10ymjHGpTv2_ORirj-iT8L9ddM6vb1gizxNTJxpsK1ro/edit?usp=sharing)  
-[Дорожная карта](https://github.com/daria-kashina/the_green_census/blob/main/Дорожная%20карта%20Извилинки.xlsx)
+[Дорожная карта](https://github.com/daria-kashina/the_green_census/blob/main/Дорожная%20карта%20Извилинки.xlsx)  
+[Скринкаст](https://disk.yandex.ru/d/6uY4uwX4GTwqoA)
+
