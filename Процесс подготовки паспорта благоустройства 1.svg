@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="3129" height="627" viewBox="0 0 3129 627">
+<defs>
+<path d="M86.5,221.5 V50" id="d0" />
+<path d="M88.5,371.5 V50" id="d1" />
+<path d="M86.5,540.5 V50" id="d2" />
+</defs>
+<rect x="0" y="0" width="5000" height="5000" fill="white" />
+<text x="20" y="20" font-size="26" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#0B5394">Процесс подготовки паспорта благоустройства</text>
+<rect x="72" y="64" width="3039" height="160" fill="#D9D9D9" />
+<rect x="72" y="64" width="50" height="160" fill="#0B5394" />
+<text font-size="18" stroke="white" text-anchor="Start" dominant-baseline="Hanging" font-family="Arial"><textPath xlink:href="#d0">
+<tspan dy="0em">Профильный ОИВ</tspan>
+</textPath></text>
+<path d="M122,64 L122,224" stroke="white" stroke-width="1" />
+<rect x="72" y="236" width="3039" height="160" fill="#D9D9D9" />
+<rect x="72" y="236" width="50" height="160" fill="#0B5394" />
+<text font-size="18" stroke="white" text-anchor="Start" dominant-baseline="Hanging" font-family="Arial"><textPath xlink:href="#d1">
+<tspan dy="0em">Исполнитель</tspan>
+</textPath></text>
+<path d="M122,236 L122,396" stroke="white" stroke-width="1" />
+<rect x="72" y="408" width="3039" height="160" fill="#D9D9D9" />
+<rect x="72" y="408" width="50" height="160" fill="#0B5394" />
+<text font-size="18" stroke="white" text-anchor="Start" dominant-baseline="Hanging" font-family="Arial"><textPath xlink:href="#d2">
+<tspan dy="0em">Завершение</tspan>
+</textPath></text>
+<path d="M122,408 L122,568" stroke="white" stroke-width="1" />
+<circle cx="237.0" cy="151.0" r="30" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="252.0" y="181.0" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="black">start</text>
+<rect x="402" y="114" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="420.0" y="132.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Определение</text>
+<text x="444.0" y="153.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">границ</text>
+<rect x="632" y="114" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="651.0" y="132.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Утверждение</text>
+<text x="669.0" y="153.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">графика</text>
+<rect x="862" y="114" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="893.0" y="132.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Передача</text>
+<text x="883.5" y="153.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">картографии</text>
+<rect x="1092" y="114" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="1119.5" y="132.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Первичное</text>
+<text x="1107.5" y="153.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">обследование</text>
+<path d="M1387.0,114 L1442,151.0 L1387.0,188 L1332,151.0 Z" fill="#9FC5E8" stroke="" stroke-width="1" />
+<text x="1288.5" y="188" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="black">Есть охраняемые растения?</text>
+<text x="1379.0" y="140.5" font-size="23" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="black">X</text>
+<rect x="1782" y="286" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="1811.5" y="304.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Цифровая</text>
+<text x="1800.0" y="325.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">геоподоснова</text>
+<rect x="2012" y="286" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="2039.0" y="304.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Проектные</text>
+<text x="2048.5" y="325.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">границы</text>
+<rect x="2242" y="286" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="2258.5" y="316.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Согласование</text>
+<rect x="2472" y="286" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="2507.0" y="304.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Приемка</text>
+<text x="2487.5" y="325.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">обследования</text>
+<rect x="1552" y="286" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="1555.5" y="315.0" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">План насаждений</text>
+<rect x="1322" y="286" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="1328.0" y="314.5" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Пропустить план</text>
+<rect x="2702" y="286" width="130" height="74" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="2709.0" y="314.5" font-size="15" stroke="black" text-anchor="start" dominant-baseline="hanging" font-family="Arial">Проект паспорта</text>
+<circle cx="2997.0" cy="495.0" r="30" fill="#9FC5E8" stroke="black" stroke-width="1" />
+<text x="3012.0" y="525.0" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="black">end</text>
+<circle cx="2997.0" cy="495.0" r="30" fill="none" stroke="black" stroke-width="3" />
+<path d="M267.0,151.0 L402,151" stroke="#000000" stroke-width="1" />
+<text x="309.5" y="156.0" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Начать</text>
+<path d="M402,151 L389.0,159.0 L389.0,143.0 L402,151 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M532,151 L632,151" stroke="#000000" stroke-width="1" />
+<text x="510.0" y="156" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Определение границ</text>
+<path d="M632,151 L619.0,159.0 L619.0,143.0 L632,151 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M762,151 L862,151" stroke="#000000" stroke-width="1" />
+<text x="736.0" y="156" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Утверждение графика</text>
+<path d="M862,151 L849.0,159.0 L849.0,143.0 L862,151 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M992,151 L1092,151" stroke="#000000" stroke-width="1" />
+<text x="962.5" y="156" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Передача картографии</text>
+<path d="M1092,151 L1079.0,159.0 L1079.0,143.0 L1092,151 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M1222,151 L1332,151" stroke="#000000" stroke-width="1" />
+<text x="1183.5" y="156" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Проведение обследования</text>
+<path d="M1332,151 L1319.0,159.0 L1319.0,143.0 L1332,151 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M1442,151 L1497.0,151" stroke="#000000" stroke-width="1" />
+<path d="M1497.0,151 L1497.0,323" stroke="#000000" stroke-width="1" />
+<path d="M1497.0,323 L1552,323" stroke="#000000" stroke-width="1" />
+<text x="1502.0" y="226.5" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Да</text>
+<path d="M1552,323 L1539.0,331.0 L1539.0,315.0 L1552,323 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M1682,323 L1782,323" stroke="#000000" stroke-width="1" />
+<text x="1670.0" y="328" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Подготовка плана</text>
+<path d="M1782,323 L1769.0,331.0 L1769.0,315.0 L1782,323 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M1912,323 L2012,323" stroke="#000000" stroke-width="1" />
+<text x="1913.5" y="328" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Геоподоснова</text>
+<path d="M2012,323 L1999.0,331.0 L1999.0,315.0 L2012,323 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M2142,323 L2242,323" stroke="#000000" stroke-width="1" />
+<text x="2123.5" y="328" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Проектные границы</text>
+<path d="M2242,323 L2229.0,331.0 L2229.0,315.0 L2242,323 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M2372,323 L2472,323" stroke="#000000" stroke-width="1" />
+<text x="2373.5" y="328" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Согласование</text>
+<path d="M2472,323 L2459.0,331.0 L2459.0,315.0 L2472,323 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M2602,323 L2702,323" stroke="#000000" stroke-width="1" />
+<text x="2600.0" y="328" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Приемка работ</text>
+<path d="M2702,323 L2689.0,331.0 L2689.0,315.0 L2702,323 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M2832,323 L2997.0,323" stroke="#000000" stroke-width="1" />
+<path d="M2997.0,323 L2997.0,465.0" stroke="#000000" stroke-width="1" />
+<text x="2856.5" y="328" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Проект паспорта</text>
+<path d="M2997.0,465.0 L2989.0,452.0 L3005.0,452.0 L2997.0,465.0 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M1387,188 L1387,286" stroke="#000000" stroke-width="1" />
+<text x="1392" y="228.0" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Нет</text>
+<path d="M1387,286 L1379.0,273.0 L1395.0,273.0 L1387,286 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<path d="M1452,323 L1482,323" stroke="#000000" stroke-width="1" />
+<path d="M1482,323 L1482,390" stroke="#000000" stroke-width="1" />
+<path d="M1482,390 L1847,390" stroke="#000000" stroke-width="1" />
+<path d="M1847,390 L1847,360" stroke="#000000" stroke-width="1" />
+<text x="1487" y="346.0" font-size="15" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#000000">Пропустить план</text>
+<path d="M1847,360 L1855.0,373.0 L1839.0,373.0 L1847,360 Z" fill="#000000" stroke="#000000" stroke-width="2" />
+<text x="20" y="590" font-size="18" text-anchor="start" dominant-baseline="Hanging" font-family="Arial" stroke="#0B5394"> Извилинки</text>
+</svg>
