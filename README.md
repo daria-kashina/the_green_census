@@ -217,4 +217,5 @@
 [Конкурентный анализ решений учета анализа зеленых насаждений](https://github.com/daria-kashina/the_green_census/blob/main/Конкурентный%20анализ%20решений%20учета%20и%20анализа%20зеленых%20насаждений.pdf)    
 [BPMN схема - подготовка паспорта благоустройства](https://github.com/daria-kashina/the_green_census/blob/main/BPMN%20схема%20-%20подготовка%20паспорта%20благоустройства.svg)  
 [Про оптимизацию паспортов](https://github.com/daria-kashina/the_green_census/blob/main/Оптимизация%20паспортов.pdf)  
-[Финансовая модель проекта - ФОТ](https://github.com/daria-kashina/the_green_census/blob/main/Финансовая_модель_проекта_ФОТ.pdf)  
+[Финансовая модель проекта - ФОТ](https://github.com/daria-kashina/the_green_census/blob/main/Финансовая_модель_проекта_ФОТ.pdf)     
+[Презентация решения](https://docs.google.com/presentation/d/10ymjHGpTv2_ORirj-iT8L9ddM6vb1gizxNTJxpsK1ro/edit?usp=sharing)  
